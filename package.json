@@ -1,0 +1,5 @@
+{
+  "name": "hotbun",
+  "module": "index.js",
+  "type": "module"
+}
